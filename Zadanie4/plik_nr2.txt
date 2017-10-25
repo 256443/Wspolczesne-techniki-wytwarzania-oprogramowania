@@ -1,0 +1,2 @@
+to jest drugi plik txt
+nie wiadomo ile ma linii do przekopiowania
